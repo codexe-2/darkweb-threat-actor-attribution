@@ -1,0 +1,68 @@
+[
+  {
+    "wallet_id": "WLT-A1",
+    "address": "SYN1u2A2W58QVE2T7CqY8XFREffdozb",
+    "cluster_id": "CLU-1",
+    "first_activity": "2024-03-20",
+    "used_by_personas": [
+      "PSN-001",
+      "PSN-002",
+      "PSN-101"
+    ],
+    "note": "SYNTHETIC identifier - not a real blockchain address"
+  },
+  {
+    "wallet_id": "WLT-A2",
+    "address": "SYN12traYaxx7o6Kq8u9yaSZRxXoM7c",
+    "cluster_id": "CLU-1",
+    "first_activity": "2024-07-25",
+    "used_by_personas": [
+      "PSN-003"
+    ],
+    "note": "SYNTHETIC identifier - not a real blockchain address"
+  },
+  {
+    "wallet_id": "WLT-B1",
+    "address": "SYN1Mcp5BKamogHtqXywPbxaUntuwMF2",
+    "cluster_id": "CLU-2",
+    "first_activity": "2024-05-10",
+    "used_by_personas": [
+      "PSN-004",
+      "PSN-005",
+      "PSN-102"
+    ],
+    "note": "SYNTHETIC identifier - not a real blockchain address"
+  },
+  {
+    "wallet_id": "WLT-C1",
+    "address": "SYN1EZ1Xu8QpjLNPXPpgdJwKSQ3bhYp2",
+    "cluster_id": "CLU-3",
+    "first_activity": "2023-12-06",
+    "used_by_personas": [
+      "PSN-006",
+      "PSN-007"
+    ],
+    "note": "SYNTHETIC identifier - not a real blockchain address"
+  },
+  {
+    "wallet_id": "WLT-D1",
+    "address": "SYN1X4Jz1VHnkCC89n1RsYdubDWdbRU",
+    "cluster_id": "CLU-4",
+    "first_activity": "2024-08-27",
+    "used_by_personas": [
+      "PSN-008",
+      "PSN-009"
+    ],
+    "note": "SYNTHETIC identifier - not a real blockchain address"
+  },
+  {
+    "wallet_id": "WLT-E1",
+    "address": "SYN12B2BSx6xCZKt95Wv4w6jBW1a2NX3",
+    "cluster_id": "CLU-5",
+    "first_activity": "2025-01-14",
+    "used_by_personas": [
+      "PSN-010"
+    ],
+    "note": "SYNTHETIC identifier - not a real blockchain address"
+  }
+]

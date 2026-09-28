@@ -1,0 +1,44 @@
+[
+  {
+    "case_id": "CASE-001",
+    "title": "Consistent multi-signal attribution",
+    "subject_persona": "PSN-101",
+    "candidates": [
+      "ACT-A",
+      "ACT-B",
+      "ACT-C",
+      "ACT-D",
+      "ACT-E"
+    ],
+    "expected_outcome": "SUPPORTED",
+    "briefing": "A newly observed persona on CipherDen reuses a known alias, a known PGP key and a known wallet identifier, and was observed on a server already associated with a catalogued actor. All evidence families are present."
+  },
+  {
+    "case_id": "CASE-002",
+    "title": "Deceptive / conflicting financial evidence",
+    "subject_persona": "PSN-102",
+    "candidates": [
+      "ACT-A",
+      "ACT-B",
+      "ACT-C",
+      "ACT-D",
+      "ACT-E"
+    ],
+    "expected_outcome": "UNCERTAIN",
+    "briefing": "Persona, writing style, activity rhythm and infrastructure all point toward one actor, but the financial identifier attached to the persona belongs to a different catalogued actor. No PGP material was recovered."
+  },
+  {
+    "case_id": "CASE-003",
+    "title": "Sparse evidence / insufficient corroboration",
+    "subject_persona": "PSN-103",
+    "candidates": [
+      "ACT-A",
+      "ACT-B",
+      "ACT-C",
+      "ACT-D",
+      "ACT-E"
+    ],
+    "expected_outcome": "INSUFFICIENT",
+    "briefing": "Only three short posts and a handful of activity events were recovered. No infrastructure, PGP or financial evidence is available, and one post predates the recorded account creation date."
+  }
+]

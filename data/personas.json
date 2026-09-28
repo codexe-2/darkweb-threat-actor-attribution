@@ -1,0 +1,230 @@
+[
+  {
+    "persona_id": "PSN-001",
+    "username": "nightjar_ops",
+    "forum": "AgoraRelay",
+    "account_created": "2024-03-12",
+    "aliases": [
+      "nightjar",
+      "jar_ops"
+    ],
+    "pgp_id": "PGP-A1",
+    "wallet_id": "WLT-A1",
+    "servers": [
+      "SRV-A1"
+    ],
+    "attributed_actor": "ACT-A",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-002",
+    "username": "n1ghtjar",
+    "forum": "BlackVault",
+    "account_created": "2024-04-02",
+    "aliases": [
+      "nightjar",
+      "nj_relay"
+    ],
+    "pgp_id": "PGP-A1",
+    "wallet_id": "WLT-A1",
+    "servers": [
+      "SRV-A1"
+    ],
+    "attributed_actor": "ACT-A",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-003",
+    "username": "jar_of_night",
+    "forum": "CipherDen",
+    "account_created": "2024-07-18",
+    "aliases": [
+      "jar_ops"
+    ],
+    "pgp_id": "PGP-A2",
+    "wallet_id": "WLT-A2",
+    "servers": [
+      "SRV-A2"
+    ],
+    "attributed_actor": "ACT-A",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-004",
+    "username": "hollowkey",
+    "forum": "BlackVault",
+    "account_created": "2024-05-04",
+    "aliases": [
+      "hollow",
+      "hk_desk"
+    ],
+    "pgp_id": "PGP-B1",
+    "wallet_id": "WLT-B1",
+    "servers": [
+      "SRV-B1"
+    ],
+    "attributed_actor": "ACT-B",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-005",
+    "username": "h0llow_k3y",
+    "forum": "AgoraRelay",
+    "account_created": "2024-06-21",
+    "aliases": [
+      "hollow",
+      "vellum_desk"
+    ],
+    "pgp_id": "PGP-B1",
+    "wallet_id": "WLT-B1",
+    "servers": [
+      "SRV-B1"
+    ],
+    "attributed_actor": "ACT-B",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-006",
+    "username": "marblefox",
+    "forum": "CipherDen",
+    "account_created": "2023-11-29",
+    "aliases": [
+      "mfox"
+    ],
+    "pgp_id": "PGP-C1",
+    "wallet_id": "WLT-C1",
+    "servers": [
+      "SRV-C1"
+    ],
+    "attributed_actor": "ACT-C",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-007",
+    "username": "fox_marble",
+    "forum": "AgoraRelay",
+    "account_created": "2024-02-15",
+    "aliases": [
+      "mfox",
+      "marble"
+    ],
+    "pgp_id": "PGP-C1",
+    "wallet_id": "WLT-C1",
+    "servers": [
+      "SRV-C1"
+    ],
+    "attributed_actor": "ACT-C",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-008",
+    "username": "tinsmith",
+    "forum": "BlackVault",
+    "account_created": "2024-08-20",
+    "aliases": [
+      "tin",
+      "smithy"
+    ],
+    "pgp_id": "PGP-D1",
+    "wallet_id": "WLT-D1",
+    "servers": [
+      "SRV-D1"
+    ],
+    "attributed_actor": "ACT-D",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-009",
+    "username": "tinsmith_deals",
+    "forum": "AgoraRelay",
+    "account_created": "2024-10-03",
+    "aliases": [
+      "smithy"
+    ],
+    "pgp_id": "PGP-D1",
+    "wallet_id": "WLT-D1",
+    "servers": [
+      "SRV-D1"
+    ],
+    "attributed_actor": "ACT-D",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-010",
+    "username": "quietlark",
+    "forum": "CipherDen",
+    "account_created": "2025-01-08",
+    "aliases": [
+      "lark"
+    ],
+    "pgp_id": "PGP-E1",
+    "wallet_id": "WLT-E1",
+    "servers": [
+      "SRV-E1"
+    ],
+    "attributed_actor": "ACT-E",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-011",
+    "username": "lark_quiet",
+    "forum": "AgoraRelay",
+    "account_created": "2025-03-19",
+    "aliases": [
+      "lark"
+    ],
+    "pgp_id": "PGP-E1",
+    "wallet_id": null,
+    "servers": [
+      "SRV-E1"
+    ],
+    "attributed_actor": "ACT-E",
+    "role": "reference"
+  },
+  {
+    "persona_id": "PSN-101",
+    "username": "n1ghtjar_relay",
+    "forum": "CipherDen",
+    "account_created": "2025-11-04",
+    "aliases": [
+      "nightjar",
+      "nj_relay"
+    ],
+    "pgp_id": "PGP-A1",
+    "wallet_id": "WLT-A1",
+    "servers": [
+      "SRV-A1"
+    ],
+    "attributed_actor": null,
+    "role": "subject"
+  },
+  {
+    "persona_id": "PSN-102",
+    "username": "n1ghtjar_desk",
+    "forum": "BlackVault",
+    "account_created": "2025-09-15",
+    "aliases": [
+      "jar_ops",
+      "nj_relay"
+    ],
+    "pgp_id": null,
+    "wallet_id": "WLT-B1",
+    "servers": [
+      "SRV-A2"
+    ],
+    "attributed_actor": null,
+    "role": "subject"
+  },
+  {
+    "persona_id": "PSN-103",
+    "username": "grey_tide",
+    "forum": "AgoraRelay",
+    "account_created": "2026-02-10",
+    "aliases": [],
+    "pgp_id": null,
+    "wallet_id": null,
+    "servers": [],
+    "attributed_actor": null,
+    "role": "subject"
+  }
+]

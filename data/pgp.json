@@ -1,0 +1,68 @@
+[
+  {
+    "pgp_id": "PGP-A1",
+    "fingerprint": "41F5 2B7E DE54 7CB0 5ED1 3D31 A9FC 2A1A 54CF 3990",
+    "key_uid": "synthetic-pgp-a1@example.invalid",
+    "created": "2024-03-10",
+    "algorithm": "RSA-4096 (synthetic record)",
+    "used_by_personas": [
+      "PSN-001",
+      "PSN-002",
+      "PSN-101"
+    ]
+  },
+  {
+    "pgp_id": "PGP-A2",
+    "fingerprint": "E13C D589 3EC7 71B3 7562 941F 5C23 C5EC 5514 A158",
+    "key_uid": "synthetic-pgp-a2@example.invalid",
+    "created": "2024-07-15",
+    "algorithm": "RSA-4096 (synthetic record)",
+    "used_by_personas": [
+      "PSN-003"
+    ]
+  },
+  {
+    "pgp_id": "PGP-B1",
+    "fingerprint": "9C8C 0642 4E94 36FD FA67 69A3 1451 9DF8 F66C F254",
+    "key_uid": "synthetic-pgp-b1@example.invalid",
+    "created": "2024-05-01",
+    "algorithm": "RSA-4096 (synthetic record)",
+    "used_by_personas": [
+      "PSN-004",
+      "PSN-005"
+    ]
+  },
+  {
+    "pgp_id": "PGP-C1",
+    "fingerprint": "EC30 EF64 B014 35B3 633E C7F9 4F2E 00E8 7D4F F1E5",
+    "key_uid": "synthetic-pgp-c1@example.invalid",
+    "created": "2023-11-20",
+    "algorithm": "RSA-4096 (synthetic record)",
+    "used_by_personas": [
+      "PSN-006",
+      "PSN-007"
+    ]
+  },
+  {
+    "pgp_id": "PGP-D1",
+    "fingerprint": "D3E2 84A3 B406 AF09 7633 196B D2A4 FAF5 0861 0805",
+    "key_uid": "synthetic-pgp-d1@example.invalid",
+    "created": "2024-08-18",
+    "algorithm": "RSA-4096 (synthetic record)",
+    "used_by_personas": [
+      "PSN-008",
+      "PSN-009"
+    ]
+  },
+  {
+    "pgp_id": "PGP-E1",
+    "fingerprint": "A9BC AC82 63FC 4B67 D1DA A19E 4C8B 7143 7F5A CF49",
+    "key_uid": "synthetic-pgp-e1@example.invalid",
+    "created": "2025-01-05",
+    "algorithm": "RSA-4096 (synthetic record)",
+    "used_by_personas": [
+      "PSN-010",
+      "PSN-011"
+    ]
+  }
+]
